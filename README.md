@@ -9,6 +9,8 @@
 ## 2. Physical Contact scan
 ![Diapositive3.PNG](Diapositive3.PNG)
 
+[https://reelyactive.github.io/ble-identifier-reference.html](https://reelyactive.github.io/ble-identifier-reference.html)
+
 ## 3. Public Spaces Registration Process
 ![Diapositive4.PNG](Diapositive4.PNG)
 
