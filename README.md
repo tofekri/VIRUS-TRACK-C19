@@ -8,7 +8,10 @@
 
 ## 2. Physical Contact scan
 ![Diapositive3.PNG](Diapositive3.PNG)
+### Technology proposals:
+Identifier exposed using Bluetooth Low Energy as RFID or ibeacon and no pairing needed !!
 
+Implementation example:
 [https://reelyactive.github.io/ble-identifier-reference.html](https://reelyactive.github.io/ble-identifier-reference.html)
 
 ## 3. Public Spaces Registration Process
@@ -16,6 +19,8 @@
 
 ## 4a. Notification Process - Push to physical contacts
 ![Diapositive5.PNG](Diapositive5.PNG)
+### Techology proposal:
+Rest API and workflow orchestration to go deeply in the whole physical contact network
 
 ## 4b. Notification Process – Pull public spaces data
 ![Diapositive6.PNG](Diapositive6.PNG)
