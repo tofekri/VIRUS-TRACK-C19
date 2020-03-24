@@ -8,11 +8,13 @@
 
 ## 2. Physical Contact scan
 ![Diapositive3.PNG](Diapositive3.PNG)
-### Technology proposals:
+### Technology proposals
+Device scan:
 Identifier exposed using Bluetooth Low Energy as RFID or ibeacon and no pairing needed !!
-
-Implementation example:
+Resources:
 [https://reelyactive.github.io/ble-identifier-reference.html](https://reelyactive.github.io/ble-identifier-reference.html)
+
+Ot
 
 ## 3. Public Spaces Registration Process
 ![Diapositive4.PNG](Diapositive4.PNG)
@@ -27,3 +29,7 @@ Rest API and workflow orchestration to go deeply in the whole physical contact n
 
 ## 5. Health System Backend High level principles
 ![Diapositive7.PNG](Diapositive7.PNG)
+
+Many thanks for their contribution to Stan K., Killian J. and Kelson K.
+
+Christophe A.
