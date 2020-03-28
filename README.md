@@ -19,8 +19,6 @@ Each device can scan arround and register every detected devices.
 
 [BluetoothLeAdvertiser fo Android](https://developer.android.com/reference/android/bluetooth/le/BluetoothLeAdvertiser.html#startAdvertisingSet(android.bluetooth.le.AdvertisingSetParameters,%20%20%20%20%20%20%20%20%20%20android.bluetooth.le.AdvertiseData,%20android.bluetooth.le.AdvertiseData,%20%20%20%20%20%20%20%20%20%20android.bluetooth.le.PeriodicAdvertisingParameters,%20%20%20%20%20%20%20%20%20%20android.bluetooth.le.AdvertiseData,%20%20%20%20%20%20%20%20%20%20android.bluetooth.le.AdvertisingSetCallback))
 
-Bluetrace protocol used at Singapore initiative with the Tracetogether initiative
-[https://bluetrace.io/](https://bluetrace.io/)
 
 ## 3. Public Spaces Registration Process
 ![Diapositive4.PNG](Diapositive4.PNG)
